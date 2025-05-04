@@ -16,9 +16,7 @@ The retail company has observed stagnant growth and declining customer engagemen
 
 •	To identify high and low sales products to optimize inventory and tailor marketing efforts.
 
-•	To segment customers based on their purchasing behavior for targeted marketing campaigns. 
-
-  Create Customer segments: Customers who purchased 0 products fall under the "No Orders" segment.
+•	To segment customers based on their purchasing behavior for targeted marketing campaigns. Create Customer segments: Customers who purchased 0 products fall under the "No Orders" segment.
                             Customers who purchased between 1 to 10 products are categorized as "Low" segment.
                             Customers who purchased between 10 to 30 products are placed in the "Mid" segment.
                             Customers who purchased more than 30 products are classified as "High Value" segment.
