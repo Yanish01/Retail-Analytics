@@ -17,7 +17,8 @@ The retail company has observed stagnant growth and declining customer engagemen
 •	To identify high and low sales products to optimize inventory and tailor marketing efforts.
 
 •	To segment customers based on their purchasing behavior for targeted marketing campaigns. 
-  Create Customer segments: 
+
+Create Customer segments: 
   
 o	Customers who purchased 0 products fall under the "No Orders" segment.
 
